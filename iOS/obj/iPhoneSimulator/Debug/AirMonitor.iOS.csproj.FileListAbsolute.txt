@@ -1,0 +1,15 @@
+/Users/szymonryczek/Projects/AirMonitor/iOS/bin/iPhoneSimulator/Debug/AirMonitor.iOS.exe
+/Users/szymonryczek/Projects/AirMonitor/iOS/bin/iPhoneSimulator/Debug/AirMonitor.iOS.pdb
+/Users/szymonryczek/Projects/AirMonitor/iOS/bin/iPhoneSimulator/Debug/AirMonitor.dll
+/Users/szymonryczek/Projects/AirMonitor/iOS/bin/iPhoneSimulator/Debug/AirMonitor.pdb
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/AirMonitor.iOS.csprojAssemblyReference.cache
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/AirMonitor.iOS.csproj.CopyComplete
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/AirMonitor.iOS.exe
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/AirMonitor.iOS.pdb
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/AirMonitor.iOS.csproj.CoreCompileInputs.cache
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_PartialAppManifest.items
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/actool/_BundleResourceWithLogicalName.items
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_PartialAppManifest.items
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/szymonryczek/Projects/AirMonitor/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.5/optimized/
