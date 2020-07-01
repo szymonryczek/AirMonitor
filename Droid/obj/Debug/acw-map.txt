@@ -1,3 +1,0 @@
-AirMonitor.Droid.MainActivity, AirMonitor.Droid;crc643b4cbcac3326ebb6.MainActivity
-AirMonitor.Droid.MainActivity;crc643b4cbcac3326ebb6.MainActivity
-airmonitor.droid.MainActivity;crc643b4cbcac3326ebb6.MainActivity

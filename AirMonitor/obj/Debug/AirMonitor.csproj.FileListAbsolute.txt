@@ -1,6 +1,0 @@
-/Users/szymonryczek/Projects/AirMonitor/AirMonitor/bin/Debug/AirMonitor.dll
-/Users/szymonryczek/Projects/AirMonitor/AirMonitor/bin/Debug/AirMonitor.pdb
-/Users/szymonryczek/Projects/AirMonitor/AirMonitor/obj/Debug/AirMonitor.csprojAssemblyReference.cache
-/Users/szymonryczek/Projects/AirMonitor/AirMonitor/obj/Debug/AirMonitor.dll
-/Users/szymonryczek/Projects/AirMonitor/AirMonitor/obj/Debug/AirMonitor.pdb
-/Users/szymonryczek/Projects/AirMonitor/AirMonitor/obj/Debug/AirMonitor.csproj.CoreCompileInputs.cache
