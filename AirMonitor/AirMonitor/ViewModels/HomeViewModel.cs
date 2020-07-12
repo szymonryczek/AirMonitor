@@ -12,7 +12,8 @@ using Xamarin.Forms;
 using Xamarin.Essentials;
 using System.Globalization;
 using System.Web;
-
+using Xamarin.Forms.Maps;
+using AirMonitor.Models;
 namespace AirMonitor.ViewModels
 {
     public class HomeViewModel : BaseViewModel
@@ -26,15 +27,26 @@ namespace AirMonitor.ViewModels
             Initialize();
         }
 
+        private List<MapLocation> _locations;
+        public List<MapLocation> Locations
+        {
+            get => _locations;
+            set => SetProperty(ref _locations, value);
+        }
         private async Task Initialize()
         {
             IsBusy = true;
 
-            var location = await GetLocation();
+            var location = await Geolocation.GetLastKnownLocationAsync();
             var installations = await GetInstallations(location, maxResults: 3);
             var data = await GetMeasurementsForInstallations(installations);
             Items = new List<Measurement>(data);
-
+            Locations = Items.Select(x => new MapLocation
+            {
+                Address = x.Installation.Address.Description,
+                Description = "CAQI: " + x.CurrentDisplayValue,
+                Position = new Position(x.Installation.location.Latitude, x.Installation.location.Longitude)
+            }).ToList();
             IsBusy = false;
         }
 

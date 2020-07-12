@@ -7,7 +7,7 @@ namespace AirMonitor.Models
     public class Installation
     {
         public string Id { get; set; }
-        public Location Location { get; set; }
+        public Loca location { get; set; }
         public Address Address { get; set; }
         public double Elevation { get; set; }
         [JsonProperty(PropertyName = "airly")]
